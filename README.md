@@ -1,6 +1,6 @@
 # Space Shooter
 
-Simple space shooter game to learn the Phaser3 framework. Created for the [NSWI160 course](https://gamedev.cuni.cz/study/fields/game-programming-mff-cuni-cz/) in MFF UK. You can [**play it directly in your browser**](https://phaser3-shooter.stackblitz.io/).
+Simple space shooter game to learn the Phaser3 framework. Created for the [NSWI160 course](https://gamedev.cuni.cz/study/courses-history/courses-2018-2019/game-development-middleware-winter-201819/) in MFF UK. You can [**play it directly in your browser**](https://phaser3-shooter.stackblitz.io/).
 
 [![screenshot](/img/screenshot.png)](https://phaser3-shooter.stackblitz.io/)
 
